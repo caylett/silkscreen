@@ -1,0 +1,9 @@
+pandas
+numpy
+black
+#shap
+jupyter
+scikit-learn
+xgboost
+matplotlib
+lightgbm
