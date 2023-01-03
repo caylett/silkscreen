@@ -1,9 +1,9 @@
 pandas
 numpy
 black
-#shap
+shap
 jupyter
 scikit-learn
 xgboost
 matplotlib
-lightgbm
+#lightgbm
