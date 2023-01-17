@@ -1,1 +1,3 @@
-# silkscreen
+# SILKSCREEN
+
+Silkscreen is my solution for the take home problem step in the DS interview process. It was born out of frustration for losing my nights and weekends to homework assignments given to me by companies that don't pay me. And in that spirit, it is also an opportunity for companies to see that I am proficient in writing production code and solving DS problems in a reproducible way. Much like a silkscreen in screen printing, this is a template. Each use case will need it's own implementation to address those inevitable edge cases for data cleaning, preprocessing and featurization.
